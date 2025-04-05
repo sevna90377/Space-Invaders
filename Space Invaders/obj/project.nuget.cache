@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oy96osIve9o=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\1310i\\Desktop\\GP\\_Python wstęp 13-15\\giery\\Space Invaders\\Space Invaders\\Space Invaders.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\1310i\\.nuget\\packages\\raylib-cs\\7.0.1\\raylib-cs.7.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
